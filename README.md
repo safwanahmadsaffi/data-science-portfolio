@@ -20,8 +20,4 @@
 
 Used **Matlab** to train over 100 machine learning models
 <br>
-Here is the deployment : 
-'''
-*https://safwaahmad.github.io/data-science-portfolio/*
-'''
-
+Here is the deployment : https://safwaahmad.github.io/data-science-portfolio/
