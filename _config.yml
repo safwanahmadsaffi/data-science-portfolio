@@ -5,14 +5,3 @@ logo: /assets/img/ss-Photoroom-transformed.png
 show_downloads: true
 theme: jekyll-theme-minimal
 
----
-layout: default
-title: Safwan Ahmad
-description: Text below image
-show_downloads: true
----
-
-<img src="/assets/img/cicle_head.jpg" alt="Image description">
-<img src="/assets/img/ss-Photoroom-transformed.png" alt="Image description">
-
-<p>#description: Text below image</p>
