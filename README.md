@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Bachelors in Computer Science	| National Textile (June 2020_)
-- Higher School Pre-Engineering | Aspire College  (August 2022_)								       		
+- Bachelors in Computer Science	| National Textile (June 2022_)
+- Higher School Pre-Engineering | Aspire College  (August 2020_)								       		
 	 			        		
 
 ## Work Experience
