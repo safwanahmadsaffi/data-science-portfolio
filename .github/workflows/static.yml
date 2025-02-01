@@ -1,3 +1,8 @@
+title: Safwan Ahmad 
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0 
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
